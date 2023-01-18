@@ -58,7 +58,7 @@ async def on_connect():
 async def ch_pr():
   await bot.wait_until_ready()
 
-  statuses = ["YT: Adiezt Gaming", f"TT: @its.adiezzz_", "Thank you guys😝", "Low Respons", "24/7 Online"]
+  statuses = ["Main Samp Ae", f"TT: @FannSswaraaa_", "Afk Sotott", "Low Respons", "24/7 Online"]
 
   while not bot.is_closed():
   
